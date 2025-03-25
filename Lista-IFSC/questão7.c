@@ -1,4 +1,4 @@
-#include <stdio.h>  // Biblioteca para entrada/saída (ex: printf)
+#include <stdio.h>  // Biblioteca para entrada/saída
 
 int main() {
     // Declaração das variáveis
