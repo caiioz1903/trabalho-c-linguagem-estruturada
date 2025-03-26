@@ -1,4 +1,4 @@
 # trabalho-c-linguagem-estruturada
-Como fonte para verificação de código e para melhora-ló, utilizei o deepseek.
+Como fonte de pesquisa, utilizei o deepseek.
 
-Para rodar fazer e rodar os códigos utilizei o site https://replit.com/~
+Para programar e testar os códigos, utilizei o site https://replit.com/~
