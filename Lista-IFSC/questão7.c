@@ -3,7 +3,7 @@
 int main() {
     // Declaração das variáveis
     float AREA, RAIO;             // 'float' para números decimais
-    const float PI = 3.14;     // Constante PI (valor fixo)
+    const float PI = 3.14159;     // Constante PI (valor fixo)
 
     // Solicita o valor do RAIO ao usuário
     printf("Digite o valor do raio da circunferencia: ");
